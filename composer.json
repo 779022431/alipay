@@ -1,0 +1,10 @@
+{
+    "name": "jeason/alipay-laravel",
+    "authors": [
+        {
+            "name": "jeason",
+            "email": "779022431@qq.com"
+        }
+    ],
+    "require": {}
+}

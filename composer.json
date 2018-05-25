@@ -6,6 +6,11 @@
             "email": "779022431@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+        "autoload": {
+        "psr-4": {
+            "Jeason\\Alipay\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
     "require": {}
 }
